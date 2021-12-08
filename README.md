@@ -9,8 +9,8 @@ This only work for Linux distros with Python 2 also mention libraries are requir
 - optparse
 - re
 
-Installing
-----------
+Usage
+------
 Ideally, you should be able to just type:
     
     cd mac-changer
